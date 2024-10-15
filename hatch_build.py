@@ -415,7 +415,6 @@ DEPENDENCIES = [
     "pyjwt>=2.0.0",
     "python-daemon>=3.0.0",
     "python-dateutil>=2.7.0",
-    "python-nvd3>=0.15.0",
     "python-slugify>=5.0",
     # Requests 3 if it will be released, will be heavily breaking.
     "requests>=2.27.0,<3",

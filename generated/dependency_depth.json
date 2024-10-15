@@ -129,7 +129,6 @@
     "python-daemon": 1,
     "docutils": 2,
     "setuptools": 2,
-    "python-nvd3": 1,
     "python-slugify": 2,
     "text-unidecode": 2,
     "requests-toolbelt": 1,

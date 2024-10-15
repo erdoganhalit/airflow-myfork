@@ -531,11 +531,6 @@ apache-airflow v3.0.0.dev0
 │   └── setuptools v74.0.0
 ├── python-dateutil v2.9.0.post0
 │   └── six v1.16.0
-├── python-nvd3 v0.16.0
-│   ├── jinja2 v3.1.4
-│   │   └── markupsafe v2.1.5
-│   └── python-slugify v8.0.4
-│       └── text-unidecode v1.3
 ├── python-slugify v8.0.4
 │   └── text-unidecode v1.3
 ├── requests v2.32.3
